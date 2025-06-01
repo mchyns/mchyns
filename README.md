@@ -1,279 +1,288 @@
-# 💀 MOCH YUNUS - DIGITAL WARRIOR 💀
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;DIGITAL+ARCHITECT;CODE+TERMINATOR;SYSTEM+INFILTRATOR;CYBER+GLADIATOR" alt="Matrix Typing"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8EC5FC,50:E0C3FC,100:9BB5FF&text=MOCH%20YUNUS&fontSize=60&fontColor=ffffff&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Digital%20Creator&descSize=20&descAlignY=55&animation=blinking"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Hacker Matrix" width="600">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:0a0a0a,100:1a1a1a&height=200&section=header&text=ENTER%20THE%20MATRIX&fontSize=40&fontColor=00FF41&animation=scaleIn&fontAlignY=35"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3D8BFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌟+Building+the+Future+with+Code;🚀+Full+Stack+Developer+%7C+Problem+Solver;💡+Turning+Ideas+into+Digital+Reality;🎯+Always+Learning%2C+Always+Creating" alt="Typing Animation"/>
 </div>
-
-## ⚡ SYSTEM PROFILE ⚡
-
-```bash
-┌─[ACCESSING_DATABASE]─[CLASSIFIED]
-├─ CODENAME: Moch Yunus
-├─ DESIGNATION: Full Stack Terminator
-├─ LOCATION: East Java Cyber Base
-├─ STATUS: ONLINE [2022-PRESENT]
-├─ THREAT_LEVEL: EXTREME
-└─ MISSION: Destroy bugs, Build empires
-```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qDWp7hxhi1N8oF2/giphy.gif" width="300" alt="Skull Hacker"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 </div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="35" /> About Me
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="400">
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌟 Hello World! I'm Moch Yunus
 
 ```javascript
-class CyberWarrior {
-    constructor() {
-        this.codename = "Moch Yunus";
-        this.rank = "Digital Overlord";
-        this.location = "East Java Fortress";
-        this.weapons = ["JavaScript", "Python", "PHP", "React", "Node.js"];
-        this.armor = ["Docker", "Git", "Linux", "AWS"];
-        this.databases = ["MySQL", "MongoDB", "PostgreSQL"];
-        this.missionStatus = "HUNTING_BUGS";
-        this.powerLevel = "MAXIMUM";
-    }
+const developer = {
+  name: "Moch Yunus",
+  location: "East Java, Indonesia 🇮🇩",
+  education: "University Student (Class of 2022)",
+  passion: "Creating digital experiences that matter",
+  currentMission: "Building the future, one line at a time",
+  
+  dailyRoutine: [
+    "☕ Coffee++",
+    "💻 Code",
+    "🔄 Debug", 
+    "🚀 Deploy",
+    "🎯 Repeat"
+  ],
+  
+  lifePhilosophy: "Turn coffee into code, bugs into features! ✨"
+};
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🎯 Quick Facts
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ba9cc84f-0f25-4f8b-9808-c9a3313a21b3" width="200">
+
+- 🎓 **Student Developer** from beautiful East Java
+- 💻 **Full Stack enthusiast** with a love for clean code
+- 🌱 Currently diving deep into **React ecosystem**
+- 🔭 Exploring **cloud technologies** and **DevOps**
+- 🎨 UI/UX enthusiast who believes in **pixel-perfect** designs
+- 🎮 Gamer by night, coder by day
+- 📚 Continuous learner and **open-source** contributor
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="150">
+</div>
+
+</td>
+</tr>
+</table>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Tech Stack & Skills
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="500">
+</div>
+
+<div align="center">
+
+### 🎨 Frontend Universe
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,sass,tailwind,bootstrap,figma)](https://skillicons.dev)
+
+### ⚙️ Backend Cosmos  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,django,fastapi)](https://skillicons.dev)
+
+### 🗄️ Database Galaxy
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,supabase,firebase)](https://skillicons.dev)
+
+### ☁️ DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode,linux)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8b366b14-2cfc-4723-96c2-215a5cc8d9b7" width="400">
+</div>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchyns&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Moch Yunus's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchyns&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Moch Yunus's Language Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mchyns&theme=tokyonight&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Current Mission & Projects
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="500">
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 What I'm Coding Right Now
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="120"/>
+
+- 🚀 **Full-Stack Web Apps** - MERN/PERN stack mastery
+- 🎨 **UI/UX Projects** - Crafting beautiful interfaces  
+- ☁️ **Cloud Migration** - Learning AWS & DevOps patterns
+- 🤖 **API Development** - RESTful & GraphQL services
+- 📱 **Responsive Design** - Mobile-first approaches
+- 🔐 **Authentication Systems** - Secure user management
+
+</td>
+<td width="50%">
+
+### 🎯 2025 Goals & Achievements
+
+- [x] ✅ Master React fundamentals
+- [x] ✅ Learn TypeScript integration  
+- [x] ✅ Build responsive web apps
+- [ ] 🎯 Complete 5 full-stack projects
+- [ ] 🌟 Contribute to open source (target: 10 PRs)
+- [ ] 🚀 Launch personal SaaS product
+- [ ] ☁️ Get AWS Developer certification
+- [ ] 🎓 Graduate with honors
+- [ ] 💼 Land awesome internship
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/03c69979-9f48-4851-b421-6ad047e187a8" width="120">
+</div>
+
+</td>
+</tr>
+</table>
+
+### 🗺️ Learning Roadmap
+
+```mermaid
+graph TD
+    A[🎯 Current: React Mastery] --> B[☁️ Cloud Technologies]
+    B --> C[🤖 AI/ML Integration]
+    C --> D[🚀 SaaS Development]
+    D --> E[🌟 Open Source Contributions]
+    E --> F[🎓 University Graduation]
     
-    executeDestruction() {
-        return "BUGS_ELIMINATED";
-    }
-}
+    style A fill:#3B82F6
+    style B fill:#10B981
+    style C fill:#F59E0B
+    style D fill:#EF4444
+    style E fill:#8B5CF6
+    style F fill:#06B6D4
 ```
 
-## 🔥 ARSENAL & WEAPONS 🔥
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Telephone" width="35" height="35" /> Let's Connect & Build Amazing Things!
 
 <div align="center">
-
-### ⚔️ FRONTEND WEAPONS
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-
-### 💀 BACKEND DESTROYERS
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-
-### 🗡️ DATA TERMINATORS & TOOLS
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f4acb49c-57f4-4847-97a9-89a2fb535ded" width="500">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Dark Magic"/>
+  
+### 🤝 Ready to collaborate? Let's create something extraordinary together! ✨
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/mchynss)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/mchyns)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/mchyns)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:moch.yunus.am@gmail.com)
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="300">
+
+### 📬 Open for:
+- 💼 **Collaboration** on exciting projects
+- 🚀 **Freelance** opportunities  
+- 🤝 **Open Source** contributions
+- 💡 **Brainstorming** innovative ideas
+- ☕ **Coffee chats** about tech!
+
 </div>
 
-## ☠️ DIGITAL WARFARE ZONE ☠️
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="35" height="35" /> Fun Zone & Random Facts
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif" width="500" alt="Matrix Rain"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=☕+Powered+by+coffee+and+curiosity+%7C+🎮+Weekend+warrior+gamer;🌙+Night+owl+coder+%7C+🍕+Pizza+enthusiast+%7C+📚+Eternal+learner;🎵+Music+lover+%7C+🐱‍💻+Cat+person+%7C+🌟+Dream+chaser" alt="Fun Facts"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=ENTER%20THE%20DARKNESS&fontSize=45&fontColor=00FF41&animation=twinkling&fontAlignY=35"/>
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
 
-## 🔥 TACTICAL COMMAND CENTER 🔥
-
-<div align="center">
-  
-  ⚡ **DIRECTIVE:** Dominate the digital realm, one system at a time!
-  
-  <img src="https://media.giphy.com/media/3o6ZtcEsSNb0VbtWVy/giphy.gif" width="300" alt="Dark Warrior"/>
-  
-  ### 💀 OPERATION STATUS
-  
-  <img src="https://media.giphy.com/media/26uf4r87CKenbNBqE/giphy.gif" width="250" alt="Skull Hacker"/>
-  
-  **FROM DARKNESS TO SUPREMACY!** 📈
-  
-  ```
-  [████████████████████████████████] MAXIMUM POWER
-  ```
-  
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="350" alt="Dark Energy"/>
-  
-</div>
-
-## ⚔️ LETHAL ARSENAL & DARK MAGIC ⚔️
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=💀+DEATH+%7C+⚡+DESTRUCTION+%7C+🔥+DOMINATION;🗡️+ANNIHILATION+%7C+💻+INFILTRATION+%7C+⚔️+TERMINATION" alt="Dark Powers"/>
-  
-  <br><br>
-  
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="180" alt="Dark Lightning"/>
-  <img src="https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif" width="180" alt="Matrix"/>
-  <img src="https://media.giphy.com/media/l0HeFpoEBQWgqJXfW/giphy.gif" width="180" alt="Fire Skull"/>
-  
-  ### 💀 DARK OVERLORDS GALLERY
-  
-  <img src="https://media.giphy.com/media/26uf759M4VDLM9OfS/giphy.gif" width="120" alt="Dark 1"/>
-  <img src="https://media.giphy.com/media/26tPo9rksWnfPo4HS/giphy.gif" width="120" alt="Dark 2"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" alt="Dark 3"/>
-  <img src="https://media.giphy.com/media/26uf2JHNV0Tq3ugkE/giphy.gif" width="120" alt="Dark 4"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120" alt="Dark 5"/>
-  
-</div>
-
-## ⚡ ACTIVE MISSIONS ⚡
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" alt="Cyber Attack"/>
-</div>
-
-```bash
-┌─[MISSION_STATUS]─[CLASSIFIED]
-├─ 🔥 OPERATION: Full-Stack Domination
-├─ 🎯 TARGET: Advanced React & Microservices
-├─ 💀 STATUS: Collaborating with elite hackers
-├─ ⚡ PHASE: Cloud & DevOps infiltration
-└─ 🗡️ OBJECTIVE: Maximum system penetration
+### 🎯 Developer Stats
+```text
+💻 Lines of Code Written:    10,000+
+🐛 Bugs Fixed:               500+
+☕ Coffee Consumed:          ∞ cups
+🌙 Late Night Coding:        Every night
+🎮 Gaming Hours/Week:        15+ hours
+📚 Books Read This Year:     12+
 ```
 
+</td>
+<td width="50%" align="center">
+
+### 🏆 Achievement Unlocked!
+- 🥇 **Code Warrior** - Survived debugging hell
+- 🌟 **UI Wizard** - Making pixels dance  
+- ⚡ **Speed Coder** - Fast fingers, faster mind
+- 🧠 **Problem Solver** - No bug is too tough
+- 🤝 **Team Player** - Collaboration champion
+- 🚀 **Innovation Hunter** - Always exploring
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="300" alt="Dark Coding"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/aec8306a-8a1a-4ea0-9d31-4e4b584b2f07" width="400">
 </div>
 
-## 🎯 2025 TERMINATION TARGETS
-
+### 🎭 Daily Mantras
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlCzV4S8vjpGq52/giphy.gif" width="350" alt="Target Lock"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
 </div>
 
-```bash
-┌─[ELIMINATION_LIST]─[PRIORITY_ALPHA]
-├─ [ ] ⚔️ EXECUTE: Advanced JavaScript frameworks
-├─ [ ] 💀 INFILTRATE: Open source repositories  
-├─ [ ] 🚀 CONSTRUCT: SaaS empire
-├─ [ ] ☁️ DOMINATE: Cloud architecture
-└─ [ ] 🎓 COMPLETE: University fortress siege
+### 🎨 Aesthetic Code Philosophy
+```javascript
+// My coding philosophy in a nutshell
+const codingLife = {
+  motto: "Clean code is not written by following a set of rules",
+  approach: "Make it work, make it right, make it fast",
+  mindset: "Every expert was once a beginner",
+  goal: "Write code that tells a story",
+  secret: "The best error message is the one that never shows up"
+};
+
+// Life in three words
+console.log("Code. Create. Inspire. 🚀");
 ```
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=TARGETS+LOCKED;SYSTEMS+COMPROMISED;MISSION+IN+PROGRESS;VICTORY+IMMINENT" alt="Mission Status"/>
-</div>
-
-## 🌐 SECURE CHANNELS
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80"> **ESTABLISH CONNECTION** <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=100&section=header&text=ENCRYPTED%20CHANNELS&fontSize=20&fontColor=00FF41&animation=fadeIn&fontAlignY=35"/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000)](https://instagram.com/mchynss)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FF0000)](https://twitter.com/mchyns)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/mchyns)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:moch.yunus.am@gmail.com)
-
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="50"> <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="50"> <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="50">
-
-</div>
-
-## 💀 PSYCHOLOGICAL WARFARE 💀
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=600&size=22&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=💀+CODE+OR+DIE+%7C+⚡+HACK+THE+PLANET+%7C+🔥+NO+MERCY;🗡️+DIGITAL+ASSASSIN+%7C+💻+SYSTEM+BREAKER+%7C+⚔️+BUG+SLAYER;🚀+UNSTOPPABLE+FORCE+%7C+💀+TERMINATOR+MODE+%7C+🎯+MISSION+CRITICAL" alt="Dark Facts"/>
-  
-  <br><br>
-  
-  ### 🔥 COMBAT READINESS STATUS
-  
-  <img src="https://media.giphy.com/media/l0HeFpoEBQWgqJXfW/giphy.gif" width="150" alt="Fire Skull"/>
-  <img src="https://media.giphy.com/media/26n6xBpxNXExDfuKc/giphy.gif" width="150" alt="Dark Power"/>
-  <img src="https://media.giphy.com/media/3og0IExSrnfW2kUaaY/giphy.gif" width="150" alt="Lightning"/>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=60&section=footer&text=FEAR%20THE%20CODE&fontColor=00FF41&fontSize=20&fontAlign=50&fontAlignY=50&desc=RESISTANCE%20IS%20FUTILE&descAlign=50&descAlignY=70"/>
-  
-</div>
-
-## ⚡ DARK MATRIX DIVIDER ⚡
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
-</div>
-
-## 🔥 DIGITAL ORACLE 🔥
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dark Quote"/>
-  
-  <br><br>
-  
-  <img src="https://media.giphy.com/media/lqVVqkqMolh9S/giphy.gif" width="250" alt="Dark Sorcery"/>
-</div>
-
-## ⚔️ CYBER BATTLEFIELD ⚔️
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/sWUxdJJSN1pirgiZ5P/giphy.gif" width="450" alt="Cyber War"/>
-  
-  <br><br>
-  
-  ### 💀 ACHIEVEMENTS UNLOCKED 💀
-  
-  ```bash
-  ┌─[TROPHY_HALL]─[LEGEND_STATUS]
-  ├─ 🏆 STREAK_DEMON: Every day is a battlefield
-  ├─ 💀 BUG_EXECUTIONER: Eliminating errors since 2022
-  ├─ ⚡ POWER_LEVEL: OVER 9000 & RISING
-  ├─ ☕ CAFFEINE_ADDICT: 999+ cups consumed
-  ├─ 🎮 SIDE_MISSIONS: Gaming warfare & beats production
-  └─ 🗡️ RANK: Supreme Digital Overlord
-  ```
-  
-  <img src="https://media.giphy.com/media/26tPo9rksWnfPo4HS/giphy.gif" width="200" alt="Dark Achievement"/>
-  
-</div>
 
 ---
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/26uf759M4VDLM9OfS/giphy.gif" width="80"> **MISSION COMPLETE** <img src="https://media.giphy.com/media/26uf759M4VDLM9OfS/giphy.gif" width="80">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Keep%20coding,%20keep%20creating!&descSize=16&descAlignY=85"/>
   
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:FF0000,70:000000,100:FF0000&height=150&section=footer&text=SYSTEM%20SHUTDOWN&fontSize=30&fontColor=00FF41&animation=scaleIn&fontAlignY=70"/>
+  ### 🌟 "Code is poetry written in logic" 🌟
   
-  <br>
-  
-  **"In the world of code, there are only two types: the quick and the dead."** – Digital Samurai
-  
-  <br>
-  
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="40"> Forged in darkness by **MOCH YUNUS** <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="40">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5c5bf7a9-2b5c-4b5e-9ae5-ab72c7bd85b0" width="50"> **Crafted with ❤️ and lots of ☕ by Moch Yunus** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5c5bf7a9-2b5c-4b5e-9ae5-ab72c7bd85b0" width="50">
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=mchyns&color=FF0000&style=for-the-badge&label=INFILTRATIONS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mchyns&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <br><br>
   
-  ### ⚡ STAY DANGEROUS, STAY CODING ⚡
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1c36d50d-7840-4fde-b7d8-5d6b91741c1e" width="60">
   
-  <img src="https://media.giphy.com/media/26uf2JHNV0Tq3ugkE/giphy.gif" width="60">
+  ### ✨ Keep Learning, Keep Growing! ✨
   
 </div>
